@@ -120,7 +120,7 @@ span {
 }
 
 .sticky {
-    opacity: 0.4;
+    opacity: 0.8;
     box-shadow: 0 0 6px 1px black;
 }
 
@@ -917,7 +917,7 @@ button {
     min-height: 100vh;
     margin-left: -3rem;
     margin-right: -3rem;
-    background: url(/EX_Header/Blog/img__contact.jpg) no-repeat;
+    background: url(img__contact.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
