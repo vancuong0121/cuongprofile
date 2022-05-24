@@ -838,7 +838,6 @@ button {
     content: '';
     height: 100%;
     width: 1px;
-    margin-bottom: 50px;
     position: absolute;
     top: 0;
     left: 5px;
