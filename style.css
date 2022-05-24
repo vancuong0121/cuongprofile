@@ -755,6 +755,7 @@ button {
 
 .qualification {
     height: 100vh;
+    padding-bottom: 50px;
 }
 
 .section__title__qualification {
